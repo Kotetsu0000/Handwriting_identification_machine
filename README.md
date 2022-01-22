@@ -1,0 +1,2 @@
+# Handwriting_identification_machine
+JavaのGUI手書き数字認識機
